@@ -12,16 +12,16 @@ ucgj2014ngy_teamD
 
 <p>
 <strong>通常版（Oculus Rift使用）</strong><br />
-（mac版）
-<h5>Gekioko_mac.app.zip</h5>
-（win版）
-<h5>Gekioko_win.zip</h5>
+Gekioko_mac.app.zip（mac版）<br />
+Gekioko_win.zip（win版）
 </p>
 
 <p>
 <strong>Oculus Rift不使用版</strong><br />
-（mac版）
-<h5>gekioko_noOculus_forMac.app.zip</h5>
-（win版）
-<h5>gekioko_noOculus_forWin.zip</h5>
+gekioko_noOculus_forMac.app.zip（mac版）<br />
+gekioko_noOculus_forWin.zip（win版）
+</p>
+
+<p>
+また、その他のデータとして発表のプレゼンテーションに使用した資料「げきおこUnitychan!.pdf」も公開しておりますので、よければプレイ前にご一読いただければと思います。
 </p>
