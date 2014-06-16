@@ -11,13 +11,14 @@ ucgj2014ngy_teamD
 </p>
 
 <p>
+<p>
 <h4>通常版（Oculus Rift使用）</h4>
-Gekioko_mac.app.zip（mac版）<br />
+<a>Gekioko_mac.app.zip（mac版）</a><br />
 Gekioko_win.zip（win版）
 </p>
 
 <p>
 <h4>Oculus Rift不使用版</h4>
-gekioko_noOculus_forMac.app.zip（mac版）<br />
-gekioko_noOculus_forWin.zip（win版）
+<a>gekioko_noOculus_forMac.app.zip</a>（mac版）<br />
+<a>gekioko_noOculus_forWin.zip</a>（win版）
 </p>
