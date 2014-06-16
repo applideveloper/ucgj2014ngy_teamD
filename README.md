@@ -11,7 +11,7 @@ ucgj2014ngy_teamD
 </p>
 
 <p>
-<strong>通常版（Oculus Rift使用）</strong>
+<strong>通常版（Oculus Rift使用）</strong><br />
 （mac版）
 <h5>Gekioko_mac.app.zip</h5>
 （win版）
@@ -19,7 +19,7 @@ ucgj2014ngy_teamD
 </p>
 
 <p>
-<strong>Oculus Rift不使用版</strong>
+<strong>Oculus Rift不使用版</strong><br />
 （mac版）
 <h5>gekioko_noOculus_forMac.app.zip</h5>
 （win版）
