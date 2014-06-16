@@ -26,7 +26,7 @@ gekioko_noOculus_forWin.zip（win版）
 また、その他のデータとして発表のプレゼンテーションに使用した資料「げきおこUnitychan!.pdf」も公開しておりますので、よければプレイ前にご一読いただければと思います。
 </p>
 
-<p style="text-align:center">Produced by<br />
+<p style="width:100%;text-align:center">Produced by<br />
 ikosami<br />
 和正<br />
 Taku Ishikawa<br />
