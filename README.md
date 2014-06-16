@@ -1,16 +1,23 @@
 ucgj2014ngy_teamD
 =================
-このリポジトリはユニティちゃんゲームジャム2014@名古屋・六番町会場　チームDの制作したゲーム
+<p>
+このリポジトリではユニティちゃんゲームジャム2014@名古屋・六番町会場　チームDの制作したゲーム<br />
 「げきおこ！unity-chan！」を公開しています。
-
-本作品はOculus Riftでのプレイを前提としています。
-ですがOculus Rift無しでのプレイも可能となっていますので、環境に応じてデータをダウンロードして下さい。
+</p>
+<p>
+本作品はOculus Riftでのプレイを前提としています。<br />
+ですがOculus Rift無しでのプレイも可能となっていますので、環境に応じてデータをダウンロードして下さい。<br />
 下記が各環境のデータです。
+</p>
 
-通常版（Oculus Rift使用）
-Gekioko_mac.app.zip（mac版）
+<p>
+<h4>通常版（Oculus Rift使用）</h4>
+Gekioko_mac.app.zip（mac版）<br />
 Gekioko_win.zip（win版）
+</p>
 
-Oculus Rift不使用版
-gekioko_noOculus_forMac.app.zip（mac版）
+<p>
+<h4>Oculus Rift不使用版</h4>
+gekioko_noOculus_forMac.app.zip（mac版）<br />
 gekioko_noOculus_forWin.zip（win版）
+</p>
